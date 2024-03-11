@@ -94,6 +94,3 @@ python validate.py ../data --model tf_efficientdet_d0 --checkpoint path/to/model
 ```
 
 
-
-
-Developed by Conrad Takashi(https://discord.com/users/382102787649175553).
